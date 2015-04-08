@@ -2,6 +2,10 @@
 
 EdgridRb is a wrapper for the awesome gryd system from [@edigitalperu](https://github.com/escueladigital), original project can be found here: https://github.com/escueladigital/ed-grid.
 
+# How to use it
+
+[Screencast](https://www.youtube.com/watch?v=wrIxw-M0kkk)
+
 This gem allows you to easily include EdGrid into your projects, it also provides your views with some helper methods to create grid dynamic gryd systems.
 
 ## Installation
